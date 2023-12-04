@@ -1,0 +1,23 @@
+INFO [12-04|20:41:25.543] Running with private transaction manager disabled - quorum private transactions will not be supported 
+INFO [12-04|20:41:25.894] Enabling recording of key preimages since archive mode is used 
+INFO [12-04|20:41:25.905] Running with private transaction manager disabled - quorum private transactions will not be supported 
+INFO [12-04|20:41:25.928] Allocated cache and file handles         database=/data/geth/chaindata cache=768.00MiB handles=524,288
+INFO [12-04|20:41:30.528] Security: TLS not enabled                endpoint=0.0.0.0:8545 reason="no TLSConfigurationSource found"
+INFO [12-04|20:41:30.809] HTTP server started                      endpoint=[::]:8545    prefix= cors=* vhosts=* isTls=false
+WARN [12-04|20:42:45.994] full p2p peer                            id=133b4f32d7750cdfd4048f04df8b560be949c229c821731554c33ead5e3888a4 ethPeer="Peer 133b4f32d7750cdf 172.16.239.15:57630"
+INFO [12-04|20:43:16.659] Looking for peers                        peercount=4 tried=4 static=8
+INFO [12-04|20:44:42.762] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|20:46:12.800] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:48:09.122] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:52:51.514] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:53:08.267] Looking for peers                        peercount=3 tried=1 static=8
+INFO [12-04|20:54:03.072] Looking for peers                        peercount=2 tried=0 static=8
+INFO [12-04|20:55:45.246] Looking for peers                        peercount=1 tried=0 static=8
+INFO [12-04|20:55:56.988] Looking for peers                        peercount=0 tried=5 static=8
+INFO [12-04|20:57:14.791] Looking for peers                        peercount=0 tried=2 static=8
+INFO [12-04|20:57:57.268] Looking for peers                        peercount=0 tried=0 static=8
+INFO [12-04|20:58:47.126] Looking for peers                        peercount=0 tried=5 static=8
+WARN [12-04|20:58:51.751] full p2p peer                            id=133b4f32d7750cdfd4048f04df8b560be949c229c821731554c33ead5e3888a4 ethPeer="Peer 133b4f32d7750cdf 172.16.239.15:30303"
+WARN [12-04|20:59:03.962] full p2p peer                            id=58e94810eeee14c28613b47e93917cadbace5dfce132b991732c6cda9bcc5b8a ethPeer="Peer 58e94810eeee14c2 172.16.239.11:55514"
+INFO [12-04|20:59:14.656] Looking for peers                        peercount=3 tried=3 static=8
+INFO [12-04|21:42:35.220] Looking for peers                        peercount=2 tried=2 static=8

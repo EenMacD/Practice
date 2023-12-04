@@ -1,0 +1,40 @@
+INFO [12-04|20:41:29.333] Opened ancient database                  database=/data/geth/chaindata/ancient readonly=false
+INFO [12-04|20:41:29.719] Using SegregatedCacheProvider. 
+INFO [12-04|20:41:29.800] Loaded most recent local header          number=0 hash=736d99..5e9f20 td=1 age=3y5mo1d
+WARN [12-04|20:41:29.992] Failed to load snapshot, regenerating    err="missing or corrupted snapshot"
+INFO [12-04|20:41:30.010] Generated state snapshot                 accounts=11 slots=0 storage=544.00B elapsed=17.818ms
+INFO [12-04|20:41:30.048] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [12-04|20:41:30.116] Error reading unclean shutdown markers   error="leveldb: not found"
+INFO [12-04|20:41:31.201] Security Plugin is not enabled 
+INFO [12-04|20:53:40.624] Looking for peers                        peercount=3 tried=1 static=8
+INFO [12-04|20:57:45.529] Looking for peers                        peercount=1 tried=4 static=8
+INFO [12-04|20:58:29.134] Looking for peers                        peercount=0 tried=9 static=8
+WARN [12-04|20:59:30.031] full p2p peer                            id=133b4f32d7750cdfd4048f04df8b560be949c229c821731554c33ead5e3888a4 ethPeer="Peer 133b4f32d7750cdf 172.16.239.15:30303"
+INFO [12-04|20:59:41.470] Looking for peers                        peercount=3 tried=5 static=8
+INFO [12-04|21:00:04.368] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:02:25.264] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:02:41.455] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:04:44.713] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:05:56.956] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:06:32.769] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:08:53.495] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:11:49.443] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:13:01.842] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:14:11.209] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:15:36.630] Looking for peers                        peercount=4 tried=1 static=8
+WARN [12-04|21:16:54.956] full p2p peer                            id=c8f776c1d83d4fddd02782c698c1334496614aed49d2e81526d089f7264fed9c ethPeer="Peer c8f776c1d83d4fdd 172.16.239.14:30303"
+WARN [12-04|21:17:00.267] full p2p peer                            id=27059b2392ab7830b38b2f4d27a97c9aaf04f18f3014c32e036dd0ac76da5f18 ethPeer="Peer 27059b2392ab7830 172.16.239.12:30303"
+INFO [12-04|21:17:16.155] Looking for peers                        peercount=3 tried=3 static=8
+INFO [12-04|21:18:28.457] Looking for peers                        peercount=3 tried=2 static=8
+INFO [12-04|21:19:42.133] Looking for peers                        peercount=2 tried=1 static=8
+INFO [12-04|21:20:17.516] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:28:32.387] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:29:21.953] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:34:23.009] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:34:45.213] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:34:58.396] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:37:38.121] Looking for peers                        peercount=2 tried=1 static=8
+INFO [12-04|21:38:16.869] Looking for peers                        peercount=2 tried=3 static=8
+INFO [12-04|21:38:52.973] Looking for peers                        peercount=0 tried=0 static=8
+INFO [12-04|21:39:17.163] Looking for peers                        peercount=0 tried=3 static=8
+INFO [12-04|21:44:27.580] Looking for peers                        peercount=0 tried=0 static=8

@@ -1,0 +1,62 @@
+INFO [12-04|20:41:25.788] Enabling recording of key preimages since archive mode is used 
+INFO [12-04|20:41:25.838] Running with private transaction manager disabled - quorum private transactions will not be supported 
+WARN [12-04|20:41:25.838] Sanitizing invalid miner gas price       provided=0 updated=0
+INFO [12-04|20:41:25.838] Allocated trie memory caches             clean=154.00MiB dirty=256.00MiB
+INFO [12-04|20:41:26.980] Initialising Quorum consensus protocol   name=istanbul versions="[100 99 64]" network=1337 dbversion=<nil>
+WARN [12-04|20:41:27.010] Failed to load snapshot, regenerating    err="missing or corrupted snapshot"
+INFO [12-04|20:41:27.056] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [12-04|20:41:27.314] BFT: Initialising snap with extradata    validators="[0x93917cADBace5dFCE132B991732c6Cda9bcC5B8a 0x27A97C9AaF04f18f3014c32e036dD0Ac76Da5f18 0xcE412f988377e31F4d0fF12d74df73B51C42d0cA 0x98C1334496614aED49d2E81526D089f7264fED9C]"
+WARN [12-04|20:41:27.509] Error reading unclean shutdown markers   error="leveldb: not found"
+WARN [12-04|20:41:34.072] full p2p peer                            id=c8f776c1d83d4fddd02782c698c1334496614aed49d2e81526d089f7264fed9c ethPeer="Peer c8f776c1d83d4fdd 172.16.239.14:59052"
+WARN [12-04|20:41:37.896] full p2p peer                            id=27059b2392ab7830b38b2f4d27a97c9aaf04f18f3014c32e036dd0ac76da5f18 ethPeer="Peer 27059b2392ab7830 172.16.239.12:39958"
+WARN [12-04|20:42:08.162] full p2p peer                            id=133b4f32d7750cdfd4048f04df8b560be949c229c821731554c33ead5e3888a4 ethPeer="Peer 133b4f32d7750cdf 172.16.239.15:58940"
+INFO [12-04|20:47:22.583] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:50:37.332] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|20:52:13.905] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:53:04.867] Looking for peers                        peercount=3 tried=3 static=8
+INFO [12-04|20:54:02.700] Looking for peers                        peercount=0 tried=4 static=8
+INFO [12-04|20:54:41.148] Looking for peers                        peercount=0 tried=5 static=8
+INFO [12-04|20:56:00.271] Looking for peers                        peercount=0 tried=3 static=8
+INFO [12-04|20:56:49.454] Looking for peers                        peercount=0 tried=2 static=8
+INFO [12-04|20:57:45.626] Looking for peers                        peercount=0 tried=2 static=8
+INFO [12-04|21:00:17.995] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:01:15.023] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:02:37.305] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:03:00.619] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:03:12.217] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:03:35.544] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:03:47.486] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:04:10.893] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:04:22.507] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:04:45.216] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:06:44.008] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:08:18.995] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:09:04.621] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:09:39.674] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:11:24.679] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:15:33.709] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:16:09.684] Looking for peers                        peercount=2 tried=2 static=8
+INFO [12-04|21:16:34.081] Looking for peers                        peercount=2 tried=2 static=8
+INFO [12-04|21:16:46.413] Looking for peers                        peercount=2 tried=2 static=8
+WARN [12-04|21:17:00.220] full p2p peer                            id=27059b2392ab7830b38b2f4d27a97c9aaf04f18f3014c32e036dd0ac76da5f18 ethPeer="Peer 27059b2392ab7830 172.16.239.12:45388"
+INFO [12-04|21:17:10.936] Looking for peers                        peercount=3 tried=0 static=8
+INFO [12-04|21:18:03.458] Looking for peers                        peercount=3 tried=2 static=8
+INFO [12-04|21:18:24.769] Looking for peers                        peercount=3 tried=1 static=8
+WARN [12-04|21:18:31.718] full p2p peer                            id=133b4f32d7750cdfd4048f04df8b560be949c229c821731554c33ead5e3888a4 ethPeer="Peer 133b4f32d7750cdf 172.16.239.15:30303"
+INFO [12-04|21:19:39.779] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:20:52.666] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:22:03.234] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:22:38.310] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:22:52.939] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:29:22.277] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:29:42.160] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:37:05.970] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:37:52.796] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:38:15.243] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:40:35.160] Looking for peers                        peercount=0 tried=4 static=8
+INFO [12-04|21:41:30.349] Writing clean trie cache to disk         path=/data/geth/triecache threads=1
+INFO [12-04|21:41:32.834] Looking for peers                        peercount=0 tried=0 static=8
+INFO [12-04|21:41:51.650] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [12-04|21:42:04.345] Looking for peers                        peercount=0 tried=6 static=8
+INFO [12-04|21:42:32.635] Looking for peers                        peercount=0 tried=4 static=8
+INFO [12-04|21:45:21.632] Looking for peers                        peercount=0 tried=1 static=8

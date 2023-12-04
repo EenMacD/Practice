@@ -1,0 +1,43 @@
+INFO [12-04|20:41:26.322] Starting pprof server                    addr=http://0.0.0.0:9545/debug/pprof
+INFO [12-04|20:41:26.898] Enabling recording of key preimages since archive mode is used 
+WARN [12-04|20:41:26.912] Sanitizing invalid miner gas price       provided=0 updated=0
+INFO [12-04|20:41:26.933] Allocated trie memory caches             clean=154.00MiB dirty=256.00MiB
+INFO [12-04|20:41:58.335] Initialised chain configuration          config="{ChainID: 1337 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 IsQuorum: true Constantinople: 0 TransactionSizeLimit: 64 MaxCodeSize: 0 Petersburg: 0 Istanbul: 0, Muir Glacier: 0, Berlin: 10000000  Catalyst: <nil> YOLO v3: <nil> PrivacyEnhancements: <nil> PrivacyPrecompile: <nil> EnableGasPriceBlock: <nil> Engine: unknown}"
+INFO [12-04|20:42:03.866] IPC endpoint opened                      url=/data/geth.ipc isMultitenant=false
+INFO [12-04|20:42:03.876] Security: TLS not enabled                endpoint=0.0.0.0:8545 reason="no TLSConfigurationSource found"
+INFO [12-04|20:42:06.198] New local node record                    seq=1 id=133b4f32d7750cdf ip=127.0.0.1 udp=0 tcp=30303
+WARN [12-04|20:42:08.104] full p2p peer                            id=2a2fe7f9e880372cfd2bda0cce412f988377e31f4d0ff12d74df73b51c42d0ca ethPeer="Peer 2a2fe7f9e880372c 172.16.239.13:30303"
+INFO [12-04|20:56:52.949] Looking for peers                        peercount=0 tried=3 static=8
+INFO [12-04|20:57:03.007] Looking for peers                        peercount=0 tried=4 static=8
+INFO [12-04|20:57:28.569] Looking for peers                        peercount=1 tried=0 static=8
+INFO [12-04|20:57:45.096] Looking for peers                        peercount=1 tried=0 static=8
+INFO [12-04|20:58:00.025] Looking for peers                        peercount=0 tried=7 static=8
+WARN [12-04|20:58:26.980] full p2p peer                            id=27059b2392ab7830b38b2f4d27a97c9aaf04f18f3014c32e036dd0ac76da5f18 ethPeer="Peer 27059b2392ab7830 172.16.239.12:54034"
+INFO [12-04|20:59:02.720] Looking for peers                        peercount=2 tried=4 static=8
+INFO [12-04|21:00:05.761] Looking for peers                        peercount=3 tried=0 static=8
+INFO [12-04|21:04:48.501] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:09:06.711] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:11:15.432] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:13:12.253] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:13:36.689] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:15:21.806] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:15:54.587] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:16:10.416] Looking for peers                        peercount=3 tried=4 static=8
+INFO [12-04|21:18:17.176] Looking for peers                        peercount=1 tried=5 static=8
+INFO [12-04|21:19:53.904] Looking for peers                        peercount=3 tried=3 static=8
+WARN [12-04|21:20:03.039] full p2p peer                            id=58e94810eeee14c28613b47e93917cadbace5dfce132b991732c6cda9bcc5b8a ethPeer="Peer 58e94810eeee14c2 172.16.239.11:30303"
+INFO [12-04|21:21:04.039] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:21:39.474] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:23:07.624] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:23:25.682] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:24:52.530] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:25:13.357] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:31:22.139] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:37:32.352] Looking for peers                        peercount=2 tried=0 static=8
+INFO [12-04|21:39:02.612] Looking for peers                        peercount=0 tried=4 static=8
+INFO [12-04|21:40:18.204] Looking for peers                        peercount=0 tried=1 static=8
+INFO [12-04|21:41:03.175] Looking for peers                        peercount=0 tried=2 static=8
+INFO [12-04|21:41:23.420] Looking for peers                        peercount=0 tried=2 static=8
+INFO [12-04|21:41:34.358] Looking for peers                        peercount=0 tried=2 static=8
+INFO [12-04|21:44:50.432] Looking for peers                        peercount=0 tried=1 static=8
+INFO [12-04|21:45:30.884] Looking for peers                        peercount=0 tried=3 static=8

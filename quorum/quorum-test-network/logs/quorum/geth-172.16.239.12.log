@@ -1,0 +1,34 @@
+INFO [12-04|20:41:28.437] Allocated cache and file handles         database=/data/geth/chaindata cache=768.00MiB handles=524,288
+INFO [12-04|20:41:30.174] Initialised chain configuration          config="{ChainID: 1337 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 IsQuorum: true Constantinople: 0 TransactionSizeLimit: 64 MaxCodeSize: 0 Petersburg: 0 Istanbul: 0, Muir Glacier: 0, Berlin: 10000000  Catalyst: <nil> YOLO v3: <nil> PrivacyEnhancements: <nil> PrivacyPrecompile: <nil> EnableGasPriceBlock: <nil> Engine: unknown}"
+INFO [12-04|20:41:30.186] Initialising Ethereum protocol           network=1337 dbversion=<nil>
+INFO [12-04|20:41:30.188] Loaded most recent local header          number=0 hash=736d99..5e9f20 td=1 age=3y5mo1d
+INFO [12-04|20:41:30.218] Loaded most recent local fast block      number=0 hash=736d99..5e9f20 td=1 age=3y5mo1d
+INFO [12-04|20:41:30.241] Rebuilding state snapshot 
+INFO [12-04|20:41:30.351] No plugins to initialise 
+INFO [12-04|20:41:30.942] Security Plugin is not enabled 
+WARN [12-04|20:41:36.913] full p2p peer                            id=c8f776c1d83d4fddd02782c698c1334496614aed49d2e81526d089f7264fed9c ethPeer="Peer c8f776c1d83d4fdd 172.16.239.14:30303"
+WARN [12-04|20:41:37.388] full p2p peer                            id=58e94810eeee14c28613b47e93917cadbace5dfce132b991732c6cda9bcc5b8a ethPeer="Peer 58e94810eeee14c2 172.16.239.11:35194"
+INFO [12-04|20:44:42.432] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|20:47:22.581] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:48:14.594] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:49:44.974] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:50:21.262] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|20:54:40.347] Looking for peers                        peercount=0 tried=3 static=8
+INFO [12-04|20:55:54.931] Looking for peers                        peercount=0 tried=4 static=8
+INFO [12-04|20:57:51.545] Looking for peers                        peercount=0 tried=4 static=8
+INFO [12-04|20:58:19.239] Looking for peers                        peercount=0 tried=1 static=8
+WARN [12-04|20:59:49.239] full p2p peer                            id=2a2fe7f9e880372cfd2bda0cce412f988377e31f4d0ff12d74df73b51c42d0ca ethPeer="Peer 2a2fe7f9e880372c 172.16.239.13:30303"
+INFO [12-04|21:16:38.324] Looking for peers                        peercount=2 tried=1 static=8
+INFO [12-04|21:17:13.964] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:17:23.959] Looking for peers                        peercount=4 tried=4 static=8
+INFO [12-04|21:17:36.436] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:17:51.982] Looking for peers                        peercount=3 tried=0 static=8
+WARN [12-04|21:18:55.597] full p2p peer                            id=133b4f32d7750cdfd4048f04df8b560be949c229c821731554c33ead5e3888a4 ethPeer="Peer 133b4f32d7750cdf 172.16.239.15:30303"
+INFO [12-04|21:19:39.870] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:20:15.300] Looking for peers                        peercount=4 tried=0 static=8
+INFO [12-04|21:20:50.776] Looking for peers                        peercount=4 tried=3 static=8
+INFO [12-04|21:22:48.805] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:23:12.313] Looking for peers                        peercount=4 tried=2 static=8
+INFO [12-04|21:24:57.957] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:29:22.362] Looking for peers                        peercount=4 tried=1 static=8
+INFO [12-04|21:30:17.297] Looking for peers                        peercount=4 tried=3 static=8
