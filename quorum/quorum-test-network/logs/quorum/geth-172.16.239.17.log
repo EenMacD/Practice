@@ -1,0 +1,19 @@
+INFO [12-04|21:55:09.820] Starting pprof server                    addr=http://0.0.0.0:9545/debug/pprof
+INFO [12-04|21:55:09.864] Enabling metrics collection 
+INFO [12-04|21:55:12.713] Tessera API version: 5.0 
+INFO [12-04|21:55:12.726] Target Private Tx Manager                name=Tessera distributionVersion=23.4.0
+INFO [12-04|21:55:12.759] Maximum peer count                       ETH=50 LES=0 total=50
+INFO [12-04|21:55:12.774] Smartcard socket not found, disabling    err="stat /run/pcscd/pcscd.comm: no such file or directory"
+INFO [12-04|21:55:12.884] Connecting to private tx manager using HTTP 
+INFO [12-04|21:55:15.104] Allocated cache and file handles         database=/data/geth/chaindata cache=768.00MiB handles=524,288
+INFO [12-04|21:55:17.711] Using SegregatedCacheProvider. 
+INFO [12-04|21:55:18.621] Loaded most recent local header          number=0 hash=736d99..5e9f20 td=1 age=3y5mo1d
+INFO [12-04|21:55:18.703] Loaded most recent local full block      number=0 hash=736d99..5e9f20 td=1 age=3y5mo1d
+INFO [12-04|21:55:19.187] Rebuilding state snapshot 
+INFO [12-04|21:55:28.706] Security: TLS not enabled                endpoint=0.0.0.0:8546 reason="no TLSConfigurationSource found"
+INFO [12-04|21:56:03.462] Imported new chain segment               blocks=19 txs=0 mgas=0.000 elapsed=8.263s    mgasps=0.000 number=20 hash=f4728f..6f6915 age=1m4s    dirty=0.00B
+INFO [12-04|21:56:04.377] Imported new chain segment               blocks=8  txs=0 mgas=0.000 elapsed=1.060s    mgasps=0.000 number=28 hash=d11156..a31f4f dirty=0.00B
+INFO [12-04|21:56:05.803] Imported new chain segment               blocks=1  txs=0 mgas=0.000 elapsed=222.307ms mgasps=0.000 number=30 hash=4ec740..70fe43 dirty=0.00B
+INFO [12-04|21:56:05.819] Imported new chain segment               blocks=1  txs=0 mgas=0.000 elapsed=11.001ms  mgasps=0.000 number=31 hash=2f6cd1..2b4c95 dirty=0.00B
+WARN [12-04|21:56:28.345] full p2p peer                            id=a1f75939c4a4d5c1c5241a1913a52aab892e1322e8b52506276363d4754c122e ethPeer="Peer a1f75939c4a4d5c1 172.16.239.16:40650"
+INFO [12-04|21:57:03.798] Imported new chain segment               blocks=1  txs=0 mgas=0.000 elapsed=1.024s    mgasps=0.000 number=38 hash=b713a5..1d9505 dirty=0.00B

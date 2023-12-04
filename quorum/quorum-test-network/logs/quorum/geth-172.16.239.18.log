@@ -1,0 +1,14 @@
+INFO [12-04|21:55:12.963] Smartcard socket not found, disabling    err="stat /run/pcscd/pcscd.comm: no such file or directory"
+WARN [12-04|21:55:14.434] Failed to load snapshot, regenerating    err="missing or corrupted snapshot"
+INFO [12-04|21:55:14.587] Generated state snapshot                 accounts=11 slots=0 storage=544.00B elapsed=152.348ms
+INFO [12-04|21:55:14.656] BFT: Initialising snap with extradata    validators="[0x93917cADBace5dFCE132B991732c6Cda9bcC5B8a 0x27A97C9AaF04f18f3014c32e036dD0Ac76Da5f18 0xcE412f988377e31F4d0fF12d74df73B51C42d0cA 0x98C1334496614aED49d2E81526D089f7264fED9C]"
+INFO [12-04|21:55:14.734] No plugins to initialise 
+INFO [12-04|21:55:15.398] IPC endpoint opened                      url=/data/geth.ipc isMultitenant=false
+INFO [12-04|21:55:15.401] Security Plugin is not enabled 
+INFO [12-04|21:55:15.477] New local node record                    seq=1 id=7bdd9cf0154c19f3 ip=127.0.0.1 udp=0 tcp=30303
+INFO [12-04|21:55:15.492] Started P2P networking                   self="enode://af19c92deb635bd7720634de9b2e7908208530d6f5e96eee003a8f1799e5be4037957d7e2fdbe3605e3a38dab05c961679c02133a0e624e23a72f7961e8af6ac@127.0.0.1:30303?discport=0"
+INFO [12-04|21:55:15.509] Security: TLS not enabled                endpoint=0.0.0.0:8545 reason="no TLSConfigurationSource found"
+WARN [12-04|21:55:17.215] full p2p peer                            id=2a2fe7f9e880372cfd2bda0cce412f988377e31f4d0ff12d74df73b51c42d0ca ethPeer="Peer 2a2fe7f9e880372c 172.16.239.13:30303"
+WARN [12-04|21:55:17.746] full p2p peer                            id=c8f776c1d83d4fddd02782c698c1334496614aed49d2e81526d089f7264fed9c ethPeer="Peer c8f776c1d83d4fdd 172.16.239.14:30303"
+INFO [12-04|21:55:50.488] Imported new chain segment               blocks=1 txs=0 mgas=0.000 elapsed=15.797s   mgasps=0.000 number=1 hash=099c45..322a0d age=2m42s   dirty=0.00B
+WARN [12-04|21:56:28.312] full p2p peer                            id=77e699b8a5282fa3837e39b3e090a28b8a9d0a69ec259cb745036d5d1030e3ea ethPeer="Peer 77e699b8a5282fa3 172.16.239.17:30303"

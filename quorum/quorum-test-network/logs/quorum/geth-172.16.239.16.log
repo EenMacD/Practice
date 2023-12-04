@@ -1,0 +1,18 @@
+INFO [12-04|21:55:15.144] Tessera API version: 5.0 
+INFO [12-04|21:55:22.569] Tessera API version: 5.0 
+INFO [12-04|21:55:22.697] Target Private Tx Manager                name=Tessera distributionVersion=23.4.0
+INFO [12-04|21:55:28.983] Opened ancient database                  database=/data/geth/chaindata/ancient readonly=false
+INFO [12-04|21:55:32.877] Initialising Ethereum protocol           network=1337 dbversion=<nil>
+INFO [12-04|21:55:32.997] Using SegregatedCacheProvider. 
+INFO [12-04|21:55:33.091] Loaded most recent local header          number=0 hash=736d99..5e9f20 td=1 age=3y5mo1d
+WARN [12-04|21:55:33.128] Failed to load snapshot, regenerating    err="missing or corrupted snapshot"
+INFO [12-04|21:55:33.134] Rebuilding state snapshot 
+INFO [12-04|21:55:33.282] Resuming state snapshot generation       root=d7d9af..f2e575 accounts=0 slots=0 storage=0.00B elapsed=108.653ms
+INFO [12-04|21:55:34.917] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [12-04|21:55:37.295] Generated state snapshot                 accounts=11 slots=0 storage=544.00B elapsed=4.121s
+INFO [12-04|21:55:41.115] extension service registered 
+INFO [12-04|21:55:41.687] No plugins to initialise 
+INFO [12-04|21:55:41.716] Starting peer-to-peer node               instance=Geth/8dfdb2447224-qbft/v1.10.3-stable(quorum-v23.4.0)/linux-amd64/go1.19.7
+INFO [12-04|21:55:49.246] Started P2P networking                   self="enode://98496800174b3c73ae33cba59f8f5e686cd488f7897c2edb52e2cf46383d75cd03dbb58dde07185bc0953f98800ca9a89f4b5ef450c5e51292ea08ec6130ee0c@127.0.0.1:30303?discport=0"
+INFO [12-04|21:56:09.361] Block synchronisation started 
+WARN [12-04|21:56:26.411] full p2p peer                            id=58e94810eeee14c28613b47e93917cadbace5dfce132b991732c6cda9bcc5b8a ethPeer="Peer 58e94810eeee14c2 172.16.239.11:51980"
